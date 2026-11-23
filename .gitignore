@@ -2,6 +2,3 @@
 .*
 !.gitignore
 !.gitattributes
-
-# full trajectories, uploaded later with Git LFS
-*.xtc
