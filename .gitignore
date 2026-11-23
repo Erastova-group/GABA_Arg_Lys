@@ -1,0 +1,7 @@
+# macOS Finder metadata and other hidden files
+.*
+!.gitignore
+!.gitattributes
+
+# full trajectories, uploaded later with Git LFS
+*.xtc
